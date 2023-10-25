@@ -1,0 +1,8 @@
+input file: sort16gb.log
+output file: output16gb.out
+number of threads: 2
+execution time: 1835.675867
+Records: 160000000
+Checksum: 23e56fce466f6a
+Duplicate keys: 0
+SUCCESS - all records are in order

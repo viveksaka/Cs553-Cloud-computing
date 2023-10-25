@@ -1,0 +1,10 @@
+CC=gcc
+CFLAGS=-Wall
+
+all: sort
+
+mysort: sort.c
+	$(CC) $(CFLAGS) -o $@ $<
+
+clean:
+	rm -rf sort

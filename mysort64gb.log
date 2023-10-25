@@ -1,0 +1,8 @@
+input file: sort64gb.log
+output file: output64gb.out
+number of threads: 2
+execution time: 6574.456357
+Records: 640000000
+Checksum: 1312cc6bda0f2ac4
+Duplicate keys: 0
+SUCCESS - all records are in order

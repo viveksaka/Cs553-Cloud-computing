@@ -1,0 +1,8 @@
+input file: sort4gb.log
+output file: output4gb.out
+number of threads: 2
+execution time: 345.645783
+Records: 40000000
+Checksum: cdb0382ec83769
+Duplicate keys: 0
+SUCCESS - all records are in order
